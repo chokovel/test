@@ -26,7 +26,7 @@ const todoSchema = new Schema({
 
 {
     timestamps:true
-})
+});
 
 
 
